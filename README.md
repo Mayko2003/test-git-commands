@@ -4,4 +4,4 @@ git add FILE or . -> stage selected files on staging area
 
 git commit -m "Message" -> save the changes on staging area
 
-git commit --amend 
+git commit --amend -> incorporate new changes to a commit
