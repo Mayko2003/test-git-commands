@@ -1,6 +1,6 @@
 # Repo for practice git commands
 
-# LOG
+# STATUS
 
 git status -> show status of files in working directory
 
