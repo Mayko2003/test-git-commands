@@ -1,13 +1,9 @@
 # Repo for practice git commands
 
-# LOG
+# FETCH
 
-git status -> show status of files in working directory
+git fetch -> update local repo from remote repo
 
-# LOG
+# PULL
 
-git log -> show history of commits (--oneline for simple details)
-
-# DIFF
-
-git diff -> show differences between commits
+git pull -> it does a git fetch and then a git merge
