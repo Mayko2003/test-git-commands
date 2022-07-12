@@ -2,7 +2,7 @@
 
 # FETCH
 
-git fetch -> update local repo from remote repo
+git fetch -> update local repo from remote repo, just bring the changes to the files
 
 # PULL
 
