@@ -1,5 +1,7 @@
 # Repo for practice git commands
 
-git status -> show status of files in working directory
+git add FILE or . -> stage selected files on staging area
 
-git log -> show history of commits (--oneline for simple details)
+git commit -m "Message" -> save the changes on staging area
+
+git commit --amend 
